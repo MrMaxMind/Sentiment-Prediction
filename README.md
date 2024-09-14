@@ -37,8 +37,8 @@ This project is built to predict the sentiment of user-input text using a pre-tr
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your_username/Sentiment-Prediction-Web-App.git
-   cd Sentiment-Prediction-Web-App
+   git clone https://github.com/your_username/Sentiment-Prediction.git
+   cd Sentiment Prediction
 2. **Install the required packages**:
    Ensure you have Python 3.x installed. Install dependencies by running:
    ```bash
