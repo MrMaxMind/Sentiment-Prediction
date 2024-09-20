@@ -1,4 +1,4 @@
-# Sentiment Prediction Web App
+# **Sentiment Prediction Web App**
 
 Welcome to the **Sentiment Prediction Web App** repository. This project aims to classify text into different sentiment categories such as joy, anger, fear, and love using a pre-trained language model. Below are instructions for setting up the project, its features, and deployment on Render using Docker.
 
@@ -8,13 +8,13 @@ Welcome to the **Sentiment Prediction Web App** repository. This project aims to
   <img src="./Sentiment-Analysis.jpeg" alt="Sentiment Analysis Image" style="border:none;">
 </div>
 
-## Overview
+## 🚀 **Overview**
 
 This project is built to predict the sentiment of user-input text using a pre-trained Hugging Face model. Users can input any text, and the model will predict the sentiment along with the confidence score. The project includes a Flask backend, a simple HTML-based frontend, and uses Docker for deployment on Render.
 
 ---
 
-## Features
+## ✨ **Features**
 
 - **Text Preprocessing**: Cleans and tokenizes input text using BERT tokenizer.
 - **Model Prediction**: Uses the `"j-hartmann/emotion-english-distilroberta-base"` model from Hugging Face to predict emotions from input text.
@@ -23,7 +23,7 @@ This project is built to predict the sentiment of user-input text using a pre-tr
 
 ---
 
-## Contents
+## 📂 **Contents**
 
 - `app.py`: Flask backend for loading the model and handling predictions.
 - `templates/index.html`: Frontend HTML form for user input.
@@ -33,7 +33,7 @@ This project is built to predict the sentiment of user-input text using a pre-tr
 
 ---
 
-## Getting Started
+## 🛠️  **Getting Started**
 
 1. **Clone the repository**:
    ```bash
@@ -52,7 +52,7 @@ This project is built to predict the sentiment of user-input text using a pre-tr
 
 ---
 
-## Deployment Instructions
+## 🚢 **Deployment Instructions**
 
 ### 1. Model Training: 
 
@@ -71,7 +71,7 @@ The app uses a pre-trained Hugging Face model, so no additional training is requ
 
 ---
 
-## Key Insights
+## 🔍 **Key Insights**
 
 - Successfully implemented a pre-trained model to classify user inputs into various sentiments.
 - Simple, user-friendly frontend designed to input text and display prediction results.
@@ -79,7 +79,7 @@ The app uses a pre-trained Hugging Face model, so no additional training is requ
 
 ---
 
-## Tools and Libraries
+## 🛠️ **Tools and Libraries**
 
 - `Flask`: For the web backend and handling HTTP requests.
 - `Transformers (Hugging Face)`: For loading and using the sentiment prediction model.
@@ -89,9 +89,11 @@ The app uses a pre-trained Hugging Face model, so no additional training is requ
 
 ---
 
-## Contributing
+## 🤝 **Contributing**
 If you have suggestions or improvements, feel free to open an issue or create a pull request.
 
 ---
 
-## *Thank you for visiting! If you find this project useful, please consider starring the repository. Happy coding!*
+## ⭐ **Thank You!**
+
+Thank you for visiting! If you find this project useful, please consider starring the repository. Happy coding!
