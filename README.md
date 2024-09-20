@@ -8,6 +8,8 @@ Welcome to the **Sentiment Prediction Web App** repository. This project aims to
   <img src="./Sentiment-Analysis.jpeg" alt="Sentiment Analysis Image" style="border:none;">
 </div>
 
+---
+
 ## 🚀 **Overview**
 
 This project is built to predict the sentiment of user-input text using a pre-trained Hugging Face model. Users can input any text, and the model will predict the sentiment along with the confidence score. The project includes a Flask backend, a simple HTML-based frontend, and uses Docker for deployment on Render.
